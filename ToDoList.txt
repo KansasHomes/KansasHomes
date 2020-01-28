@@ -1,10 +1,23 @@
-Graphics
 
-- Characters
-  * Main Character
-  * Walking Animations for Main Character
-  * Left and Right side
+TO DO:
 
-test jhnhj
+I.) Graphics
 
-test 2
+
+-- Characters --
+
+ * Front facing graphic
+
+ * Rear facing graphic
+
+ * Left side graphic
+
+ * Right side graphic
+
+ * Animations:
+   * Walking animation graphics
+   * Attack animation graphics?
+
+ * Enemies?
+
+ * Weapons? Classes?
