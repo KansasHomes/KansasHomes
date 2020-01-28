@@ -1,10 +1,5 @@
 Graphics
 
-- Characters
-  * Main Character
-  * Walking Animations for Main Character
-  * Left and Right side
+-- Characters --
 
-test jhnhj
-
-test 2
+ *
