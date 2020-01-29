@@ -1,7 +1,26 @@
 Southworth & Turner Game Development
 
-Check below for updates:
+!! PLEASE READ !!
 
+---------------------------------------------------------------------------------------------------------------------------------
+
+* KansasHomes\gameFiles folder contains framework for Unity. Do not tamper. All un-approved commits will be reverted.
+
+* ANY FILES PLACED INSIDE KansasHomes\gameAssets folder must use the following format:
+
+  * DO NOT USE SPACES, INSTEAD CAPITALIZE THE BEGINNING LETTER OF THE NEW WORD
+  
+    * Example: thisIsATestFile.png
+    
+    * WRONG: this is a test file.png
+    
+  * WHEN NAMING A FILE or FOLDER first word must be all lower case.
+  
+    * Example: thisIsATestFolder
+    
+    * WRONG: ThisIsATestFolder
+  
+---------------------------------------------------------------------------------------------------------------------------------
 Head over to the project tab to see game progress and road map.
 
-Project Tab located on KansasHomes repository on GitHub website
+Project Tab located on KansasHomes repository on GitHub website.
