@@ -21,3 +21,6 @@ I.) Graphics
  * Enemies?
 
  * Weapons? Classes?
+Classes- Valkyrie, uses heavy armor,
+her ability makes monsters target her
+and also weakens Enemies
