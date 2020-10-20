@@ -1,4 +1,4 @@
-Southworth & Turner Game Development
+
 
 !! PLEASE READ !!
 
