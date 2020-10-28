@@ -29,8 +29,173 @@ TextureImporter:
   - first:
       213: 9038304134666707226
     second: GreenSkull floating_8
+  - first:
+      213: 7503185338187207924
+    second: GreenSkull floating_0
+  - first:
+      213: 8038917764776625492
+    second: GreenSkull floating_1
+  - first:
+      213: -2212315235599636035
+    second: GreenSkull floating_2
+  - first:
+      213: -953401490365788547
+    second: GreenSkull floating_3
+  - first:
+      213: 2610659898195319531
+    second: GreenSkull floating_4
+  - first:
+      213: 3037001430390072259
+    second: GreenSkull floating_5
+  - first:
+      213: 1414963532108128396
+    second: GreenSkull floating_6
+  - first:
+      213: -5710741673592741353
+    second: GreenSkull floating_7
+  - first:
+      213: 327729112029948572
+    second: GreenSkull floating_8
+  - first:
+      213: 7732380352764605064
+    second: GreenSkull floating_9
+  - first:
+      213: 3043078430551057392
+    second: GreenSkull floating_10
+  - first:
+      213: -6981280512827408026
+    second: GreenSkull floating_11
+  - first:
+      213: 7269700435862676279
+    second: GreenSkull floating_12
+  - first:
+      213: -5805382496076017927
+    second: GreenSkull floating_13
+  - first:
+      213: -3738968925214258486
+    second: GreenSkull floating_14
+  - first:
+      213: -207927192096884492
+    second: GreenSkull floating_15
+  - first:
+      213: -8040031258225747575
+    second: GreenSkull floating_16
+  - first:
+      213: -5787793063283381193
+    second: GreenSkull floating_17
+  - first:
+      213: -7367205784156324876
+    second: GreenSkull floating_18
+  - first:
+      213: 9086388753787907899
+    second: GreenSkull floating_19
+  - first:
+      213: 2378404591555539932
+    second: GreenSkull floating_20
+  - first:
+      213: -1609278194938402171
+    second: GreenSkull floating_21
+  - first:
+      213: -2763776549241344757
+    second: GreenSkull floating_22
+  - first:
+      213: -7677724185063274912
+    second: GreenSkull floating_23
+  - first:
+      213: -3869498345026691920
+    second: GreenSkull floating_24
+  - first:
+      213: 2764030454629853804
+    second: GreenSkull floating_25
+  - first:
+      213: -1951461349757525283
+    second: GreenSkull floating_26
+  - first:
+      213: 6256716153639213623
+    second: GreenSkull floating_27
+  - first:
+      213: -3075995565763008541
+    second: GreenSkull floating_28
+  - first:
+      213: -5522016964289238510
+    second: GreenSkull floating_29
+  - first:
+      213: -681985884663085903
+    second: GreenSkull floating_30
+  - first:
+      213: 3878016895690453992
+    second: GreenSkull floating_31
+  - first:
+      213: 233469084466623172
+    second: GreenSkull floating_32
+  - first:
+      213: 2899868217864692776
+    second: GreenSkull floating_33
+  - first:
+      213: -1972137289606144660
+    second: GreenSkull floating_34
+  - first:
+      213: 7258474399907835200
+    second: GreenSkull floating_35
+  - first:
+      213: -5091876974700978328
+    second: GreenSkull floating_36
+  - first:
+      213: 8120512354582652382
+    second: GreenSkull floating_37
+  - first:
+      213: -4278848176720431734
+    second: GreenSkull floating_38
+  - first:
+      213: -2982323112353008066
+    second: GreenSkull floating_39
+  - first:
+      213: -4861595610179160404
+    second: GreenSkull floating_40
+  - first:
+      213: -4756236093141974247
+    second: GreenSkull floating_41
+  - first:
+      213: -1981184884034337147
+    second: GreenSkull floating_42
+  - first:
+      213: -8394864127174235578
+    second: GreenSkull floating_43
+  - first:
+      213: -6001589942567212326
+    second: GreenSkull floating_44
+  - first:
+      213: -4834979414321625093
+    second: GreenSkull floating_45
+  - first:
+      213: -5342393394148163705
+    second: GreenSkull floating_46
+  - first:
+      213: -6728279381241477174
+    second: GreenSkull floating_47
+  - first:
+      213: -1462981530230461958
+    second: GreenSkull floating_48
+  - first:
+      213: 3319121825491631375
+    second: GreenSkull floating_49
+  - first:
+      213: -6194868127124018870
+    second: GreenSkull floating_50
+  - first:
+      213: -5397153659890632665
+    second: GreenSkull floating_51
+  - first:
+      213: 160529397984859424
+    second: GreenSkull floating_52
+  - first:
+      213: -8413546484094804705
+    second: GreenSkull floating_53
+  - first:
+      213: -6415130440564198489
+    second: GreenSkull floating_54
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -84,6 +249,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -117,11 +283,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 18
-        y: 108
+        y: 94
         width: 11
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 30
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.0016423543}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -138,11 +304,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 68
-        y: 107
+        y: 94
         width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4830101, y: 0.0016423543}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -159,11 +325,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 118
-        y: 107
+        y: 94
         width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: -0.004020945}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -180,11 +346,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 18
-        y: 56
+        y: 45
         width: 10
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5000008, y: 0.03132485}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -201,11 +367,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 66
-        y: 57
+        y: 45
         width: 12
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01960807}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -222,11 +388,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 116
-        y: 58
+        y: 45
         width: 12
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.025466394}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -243,11 +409,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 18
-        y: 7
+        y: 0
         width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5000008, y: 0.025710614}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -264,11 +430,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 68
-        y: 7
+        y: 0
         width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4830101, y: 0.032789562}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -285,11 +451,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 118
-        y: 7
+        y: 0
         width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03278913}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
