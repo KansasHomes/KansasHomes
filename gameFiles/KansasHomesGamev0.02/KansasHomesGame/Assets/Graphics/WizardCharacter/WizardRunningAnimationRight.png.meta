@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 357a87b383adcbd4493c23aa4460ec87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6838193837655172519
+    second: WizardRunningAnimationRight_0
+  - first:
+      213: -4136155373454087276
+    second: WizardRunningAnimationRight_1
+  - first:
+      213: -3951350376274018600
+    second: WizardRunningAnimationRight_2
+  - first:
+      213: -5193623079612577670
+    second: WizardRunningAnimationRight_3
+  - first:
+      213: 4638736570439397363
+    second: WizardRunningAnimationRight_4
+  - first:
+      213: -392359074431626694
+    second: WizardRunningAnimationRight_5
+  - first:
+      213: -7529618895989076953
+    second: WizardRunningAnimationRight_6
+  - first:
+      213: 6874114471187401102
+    second: WizardRunningAnimationRight_0
+  - first:
+      213: -1889689387349584155
+    second: WizardRunningAnimationRight_1
+  - first:
+      213: 636349807885821221
+    second: WizardRunningAnimationRight_2
+  - first:
+      213: 8016607308380203257
+    second: WizardRunningAnimationRight_3
+  - first:
+      213: 4045855209480587330
+    second: WizardRunningAnimationRight_4
+  - first:
+      213: 1975371720538745580
+    second: WizardRunningAnimationRight_5
+  - first:
+      213: -6619223210601567554
+    second: WizardRunningAnimationRight_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WizardRunningAnimationRight_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 332
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e894f70e0b2c56f50800000000000000
+      internalID: 6874114471187401102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardRunningAnimationRight_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 332
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6d333a38976c5e0800000000000000
+      internalID: -1889689387349584155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardRunningAnimationRight_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 232
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5252ceb57c4c4d800800000000000000
+      internalID: 636349807885821221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardRunningAnimationRight_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 232
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f86dc78fd5b04f60800000000000000
+      internalID: 8016607308380203257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardRunningAnimationRight_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 132
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24801cd80e3c52830800000000000000
+      internalID: 4045855209480587330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardRunningAnimationRight_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 132
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea60162d1ee96b10800000000000000
+      internalID: 1975371720538745580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardRunningAnimationRight_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 32
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaa2136f8bc324a0800000000000000
+      internalID: -6619223210601567554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
