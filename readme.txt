@@ -10,6 +10,7 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------
+
 * Unity based indie game that involves two players as knights who fight in melee combat.
 * Player health system(s); Combat and armor mechanics; Including but not limited to
   Armor efficiency profiles, character dismemberment and consumables etc.
@@ -34,3 +35,4 @@
 * Kansas Homes is a place holder, it means nothing.
     
 -----------------------------------------------------------------------------------------------------------------------------
+
