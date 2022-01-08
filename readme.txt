@@ -21,12 +21,12 @@
     * Example: thisIsATestFile.png
     
     * WRONG: this is a test file.png
+ 
+* Head over to the project tab to see game progress and road map.
+
+* Project Tab located on KansasHomes repository on GitHub website.
+
+* Kansas Homes is a place holder, it means nothing.
     
 -----------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------
-
-Head over to the project tab to see game progress and road map.
-
-Project Tab located on KansasHomes repository on GitHub website.
-
-Kansas Homes is a place holder, it means nothing.
