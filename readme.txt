@@ -14,6 +14,7 @@
 * Unity based indie game that involves two players as knights that fight to the death.
 * Player health system(s); Combat and armor mechanics; Including but not limited to
   Armor efficiency profiles, character dismemberment and consumables etc.
+* Unity based with 2D sprite animations rendered in a 3D environment
 
 !! PLEASE READ !! -----------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------
