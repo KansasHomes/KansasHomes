@@ -12,9 +12,9 @@
 !! PLEASE READ !! -----------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------
 
-* ''KansasHomes\gameFiles'' folder contains framework for Unity. DO NOT TAMPER. ALL UN-APPROVED COMMITS WILL BE REVERTED.
+* 'KansasHomes\gameFiles' folder contains framework for Unity. DO NOT TAMPER. ALL UN-APPROVED COMMITS WILL BE REVERTED.
 
-* Any files placed inside ''KansasHomes\gameAssets'' folder must use the following format:
+* Any files placed inside 'KansasHomes\gameAssets' folder must use the following format:
 
   * DO NOT USE SPACES, INSTEAD CAPITALIZE THE BEGINNING LETTER OF THE NEW WORD
   
